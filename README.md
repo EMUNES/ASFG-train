@@ -14,4 +14,4 @@ You can tune params in those files and use your settings as you like.
 
 The final model will be stored under *train/logs/trainName/checkpoint*.
 
-See dump-jupyter.py if you want to use python scipts instead.
+See *dump-jupyter.py* if you prefer python scripts.
