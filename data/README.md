@@ -1,3 +1,3 @@
 # Holding data as input for deep learning dataset
 
-Each dataset is in a folder.
+Each folder holds a dataset. You need to create the folder first then build your dataset from source.
