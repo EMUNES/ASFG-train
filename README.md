@@ -1,6 +1,6 @@
 # Training as you like
 
-Extract this folder under ASFG root folder and you are ready to go (It's OK to cover the original files).
+Extract this folder folder under ASFG root folder and you are ready to go (It's OK to cover the original files).
 
 ## The training pipeline
 
