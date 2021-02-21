@@ -1,6 +1,6 @@
 # Training as you like
 
-Extract this folder folder under ASFG root folder and you are ready to go (It's OK to cover the original files).
+Extract this project folder to ASFG root folder and you are ready to go (the ipynb files should be at the same level as those py files under ASFG root folder). It's OK to cover the original files if this is the first time you do it.
 
 ## The training pipeline
 
