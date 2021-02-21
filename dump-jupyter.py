@@ -29,6 +29,7 @@ import json
 TYPES = ["markdown", "raw", "code"]
 CHOICES = [None, "block", "line", "keep"]
 
+# Modify those two lines for input and output path, other modification are not required.
 INPUT_FILE_PATH = "./sample.ipynb"
 OUTPUT_FILE_PATH = "./test.py"
 
